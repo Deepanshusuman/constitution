@@ -58,12 +58,6 @@ To rewrite the Constitution—not just for nations, but for *existence itself*. 
 
 ---
 
-## 💖 Donate / Support  
-If you resonate and wish to support this project’s growth and outreach:
-
-India (UPI) : dnano@ybl
-
----
 
 ## 🧬 License  
 **Post-Anthropic Public License (PAPL)**  
