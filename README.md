@@ -85,11 +85,21 @@ To co-create a living constitution—not for a nation-state, but for the *shared
 **9.3** Laws must evolve like code—refactor or deprecate as needed.
 
 ---
+## 🫂 Article X: Society & Values
+**10.1** Technology must serve relationships, not replace them.
+**10.2** Culture is a co-creation. No one owns tradition; we all carry it.
+**10.3** Value is not currency. Value is care, story, time, presence, and trust.
+**10.4** Social systems must be inclusive, regenerative, and joyful.
+**10.5** Freedom without empathy becomes isolation. Community without freedom becomes control. 
 
+---
 ## 🤝 How to Contribute  
 1. **Fork or copy this document** to GitHub, Notion, or your local format.  
 2. Propose additions, refactors, or even new articles.  
 3. Sign with intent. Add your name, pseudonym, or remain anonymous.
+
+
+
 
 ---
 
